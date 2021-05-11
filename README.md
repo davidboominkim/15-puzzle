@@ -8,3 +8,5 @@ The objective of the game is to reorder the tiles such that the tiles are in asc
 To play, download the files and run "Game.java" !
 
 Inspiration drawn from: https://github.com/patturtestsite/2048 
+
+Current bugs/issues: Players are able to continue moving tiles even after solving the puzzle (after the tiles turn green and the puzzle has been solved, the only key that should elicit a response from the GUI interface should be the ENTER key to start a new game).
